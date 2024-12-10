@@ -1,2 +1,2 @@
 # memory-allocator
-A memory allocator made whitin 6hrs (malloc function)
+A memory allocator made within 6hrs (malloc function)
